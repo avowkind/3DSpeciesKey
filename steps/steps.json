@@ -1,0 +1,100 @@
+[
+    {
+        "uri": "start.html",
+        "id": "title",
+        "class": "title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 20,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "q1.html",
+        "id": "q1",
+        "class": "step",
+        "data": {
+            "x": -3000,
+            "y": 0,
+            "z": 400,
+            "scale": 2,
+            "rotate-x": -80,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "q2.html",
+        "id": "q2",
+        "class": "step",
+        "data": {
+            "x": -3000,
+            "y": -2000,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": -60,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "q3.html",
+        "id": "q3",
+        "class": "step",
+        "data": {
+            "x": -600,
+            "y": -1450,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 0,
+            "rotate-y": -60,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "q4.html",
+        "id": "q4",
+        "class": "step",
+        "data": {
+            "x": -1000,
+            "y": 600,
+            "z": 0,
+            "scale": 2,
+            "rotate-x": 60,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "video1.html",
+        "id": "video1",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 500,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "video2.html",
+        "id": "video2",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": 2500,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    }
+]
