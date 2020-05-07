@@ -7,7 +7,7 @@
         "gulp-livereload": "~0.2.0",
         "tiny-lr": "~0.0.5",
         "gulp-sass": "~0.4.1",
-        "express": "~3.4.8",
+        "express": "~4.17.1",
         "gulp-embedlr": "~0.5.2",
         "highlight.js": "",
         "gulp-markdown": "",
